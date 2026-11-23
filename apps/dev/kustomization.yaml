@@ -8,6 +8,6 @@ namespace: study-app
 namePrefix: dev-
 images:
   - name: ghcr.io/skux4life/study-app-api
-    newTag: backend-v0.1.0
+    newTag: backend-v0.1.3
   - name: ghcr.io/skux4life/study-app-web
     newTag: frontend-v0.1.0
